@@ -221,7 +221,9 @@ namespace CortexAccess
                             ArrayList data = xTup.ToObject<ArrayList>();
                             String command = data[0].ToString();
                             double strength = (double)data[1];
+
                             Console.WriteLine("Command: " + command + " Strength: " + strength.ToString());
+                            WebServerThread.AddInput("keyboard", 38, 1);
                         }
                         
                         //TODO: Create Minecraft Client and pass this input to it.

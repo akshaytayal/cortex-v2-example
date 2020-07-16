@@ -7,9 +7,8 @@
          * account on emotiv.com and create a Cortex app.
          * https://www.emotiv.com/my-account/cortex-apps/
          */
-        public static string AppClientId = "The client id of your Cortex app goes here";
-        public static string AppClientSecret = "The client secret of your Cortex app goes here";
-
+        public static string AppClientId = "DsCUJSXTLrzUZYAdUA2h2gUB1ly2rW0FcLX8i14Z";
+        public static string AppClientSecret = "zPaDlGh9QW1FIx8aBkqs8tKmYfoiDswv8aD1wheyTytiaZXOGiEtm8ifjq57qzZ7WT3W6vRbt49xzb15fRDsz7WK4ah412sfCrj0LjhqWlUEmmnuezo4RIcEjEH41nN0";
         // If you use an Epoc Flex headset, then you must put your configuration here
         public static string FlexMapping = @"{
                                   'CMS':'TP8', 'DRL':'P6',
