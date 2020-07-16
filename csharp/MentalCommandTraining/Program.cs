@@ -8,7 +8,7 @@ namespace MentalCommandTraining
 {
     class Program
     {
-        private static string _profileName = "put_your_profile_here"; // new profile name for creating or existed profile name for loading
+        private static string _profileName = "Debug701"; // new profile name for creating or existed profile name for loading
 
         private static Training _trainer = new Training();
         private static bool _isSucceeded = false;
@@ -32,7 +32,7 @@ namespace MentalCommandTraining
             // Start
             _trainer.Start("mentalCommand");
 
-            if (_readyForTrainingEvent.WaitOne(50000))
+            if (_readyForTrainingEvent.WaitOne(9000000))
             {
                 Console.WriteLine("Press C to create a Profile.");
                 Console.WriteLine("Press L to load a Profile.");

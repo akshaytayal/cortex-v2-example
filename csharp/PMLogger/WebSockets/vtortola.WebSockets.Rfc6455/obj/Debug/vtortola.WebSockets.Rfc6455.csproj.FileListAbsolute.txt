@@ -1,0 +1,13 @@
+C:\Users\tilmonm\Downloads\latest\cortex-v2-example-master (2)\cortex-v2-example-master\csharp\PMLogger\WebSockets\vtortola.WebSockets.Rfc6455\obj\Debug\vtortola.WebSockets.Rfc6455.csprojAssemblyReference.cache
+C:\Users\tilmonm\Downloads\latest\cortex-v2-example-master (2)\cortex-v2-example-master\csharp\PMLogger\WebSockets\vtortola.WebSockets.Rfc6455\obj\Debug\vtortola.WebSockets.Rfc6455.csproj.CoreCompileInputs.cache
+C:\Users\tilmonm\Downloads\latest\cortex-v2-example-master (2)\cortex-v2-example-master\csharp\PMLogger\WebSockets\vtortola.WebSockets.Rfc6455\bin\Debug\vtortola.WebSockets.Rfc6455.dll.config
+C:\Users\tilmonm\Downloads\latest\cortex-v2-example-master (2)\cortex-v2-example-master\csharp\PMLogger\WebSockets\vtortola.WebSockets.Rfc6455\bin\Debug\vtortola.WebSockets.Rfc6455.dll
+C:\Users\tilmonm\Downloads\latest\cortex-v2-example-master (2)\cortex-v2-example-master\csharp\PMLogger\WebSockets\vtortola.WebSockets.Rfc6455\bin\Debug\vtortola.WebSockets.Rfc6455.pdb
+C:\Users\tilmonm\Downloads\latest\cortex-v2-example-master (2)\cortex-v2-example-master\csharp\PMLogger\WebSockets\vtortola.WebSockets.Rfc6455\bin\Debug\vtortola.WebSockets.dll
+C:\Users\tilmonm\Downloads\latest\cortex-v2-example-master (2)\cortex-v2-example-master\csharp\PMLogger\WebSockets\vtortola.WebSockets.Rfc6455\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\tilmonm\Downloads\latest\cortex-v2-example-master (2)\cortex-v2-example-master\csharp\PMLogger\WebSockets\vtortola.WebSockets.Rfc6455\bin\Debug\vtortola.WebSockets.pdb
+C:\Users\tilmonm\Downloads\latest\cortex-v2-example-master (2)\cortex-v2-example-master\csharp\PMLogger\WebSockets\vtortola.WebSockets.Rfc6455\bin\Debug\vtortola.WebSockets.dll.config
+C:\Users\tilmonm\Downloads\latest\cortex-v2-example-master (2)\cortex-v2-example-master\csharp\PMLogger\WebSockets\vtortola.WebSockets.Rfc6455\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\tilmonm\Downloads\latest\cortex-v2-example-master (2)\cortex-v2-example-master\csharp\PMLogger\WebSockets\vtortola.WebSockets.Rfc6455\obj\Debug\vtortola.WebSockets.Rfc6455.csproj.CopyComplete
+C:\Users\tilmonm\Downloads\latest\cortex-v2-example-master (2)\cortex-v2-example-master\csharp\PMLogger\WebSockets\vtortola.WebSockets.Rfc6455\obj\Debug\vtortola.WebSockets.Rfc6455.dll
+C:\Users\tilmonm\Downloads\latest\cortex-v2-example-master (2)\cortex-v2-example-master\csharp\PMLogger\WebSockets\vtortola.WebSockets.Rfc6455\obj\Debug\vtortola.WebSockets.Rfc6455.pdb
