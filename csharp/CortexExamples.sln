@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30204.135
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EEGLogger", "EEGLogger\EEGLogger.csproj", "{EF98366A-15F8-47AF-80F9-A2A11CAA7257}"
 EndProject
@@ -20,12 +20,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BandPowerLogger", "BandPowerLogger\BandPowerLogger.csproj", "{54C2D1CD-C259-439C-87C7-8BB0CBCAE541}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMLogger", "PMLogger\PMLogger.csproj", "{18F96374-24C9-4303-9E21-171D24D7C540}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vtortola.WebSockets", "PMLogger\WebSockets\vtortola.WebSockets\vtortola.WebSockets.csproj", "{1BD8E3C1-EF7D-4D58-89E2-33E5EC7C9406}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vtortola.WebSockets.Deflate", "PMLogger\WebSockets\vtortola.WebSockets.Deflate\vtortola.WebSockets.Deflate.csproj", "{3BFDAE73-A6A9-40B9-9026-84DD005BBAC9}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vtortola.WebSockets.Rfc6455", "PMLogger\WebSockets\vtortola.WebSockets.Rfc6455\vtortola.WebSockets.Rfc6455.csproj", "{72114F0D-EC56-43D5-8C13-43FB013C0C1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -107,30 +101,6 @@ Global
 		{18F96374-24C9-4303-9E21-171D24D7C540}.Release_Ubuntu|Any CPU.Build.0 = Release|Any CPU
 		{18F96374-24C9-4303-9E21-171D24D7C540}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18F96374-24C9-4303-9E21-171D24D7C540}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1BD8E3C1-EF7D-4D58-89E2-33E5EC7C9406}.Debug_Ubuntu|Any CPU.ActiveCfg = Debug|Any CPU
-		{1BD8E3C1-EF7D-4D58-89E2-33E5EC7C9406}.Debug_Ubuntu|Any CPU.Build.0 = Debug|Any CPU
-		{1BD8E3C1-EF7D-4D58-89E2-33E5EC7C9406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1BD8E3C1-EF7D-4D58-89E2-33E5EC7C9406}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1BD8E3C1-EF7D-4D58-89E2-33E5EC7C9406}.Release_Ubuntu|Any CPU.ActiveCfg = Release|Any CPU
-		{1BD8E3C1-EF7D-4D58-89E2-33E5EC7C9406}.Release_Ubuntu|Any CPU.Build.0 = Release|Any CPU
-		{1BD8E3C1-EF7D-4D58-89E2-33E5EC7C9406}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1BD8E3C1-EF7D-4D58-89E2-33E5EC7C9406}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3BFDAE73-A6A9-40B9-9026-84DD005BBAC9}.Debug_Ubuntu|Any CPU.ActiveCfg = Debug|Any CPU
-		{3BFDAE73-A6A9-40B9-9026-84DD005BBAC9}.Debug_Ubuntu|Any CPU.Build.0 = Debug|Any CPU
-		{3BFDAE73-A6A9-40B9-9026-84DD005BBAC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3BFDAE73-A6A9-40B9-9026-84DD005BBAC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3BFDAE73-A6A9-40B9-9026-84DD005BBAC9}.Release_Ubuntu|Any CPU.ActiveCfg = Release|Any CPU
-		{3BFDAE73-A6A9-40B9-9026-84DD005BBAC9}.Release_Ubuntu|Any CPU.Build.0 = Release|Any CPU
-		{3BFDAE73-A6A9-40B9-9026-84DD005BBAC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3BFDAE73-A6A9-40B9-9026-84DD005BBAC9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{72114F0D-EC56-43D5-8C13-43FB013C0C1D}.Debug_Ubuntu|Any CPU.ActiveCfg = Debug|Any CPU
-		{72114F0D-EC56-43D5-8C13-43FB013C0C1D}.Debug_Ubuntu|Any CPU.Build.0 = Debug|Any CPU
-		{72114F0D-EC56-43D5-8C13-43FB013C0C1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{72114F0D-EC56-43D5-8C13-43FB013C0C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{72114F0D-EC56-43D5-8C13-43FB013C0C1D}.Release_Ubuntu|Any CPU.ActiveCfg = Release|Any CPU
-		{72114F0D-EC56-43D5-8C13-43FB013C0C1D}.Release_Ubuntu|Any CPU.Build.0 = Release|Any CPU
-		{72114F0D-EC56-43D5-8C13-43FB013C0C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{72114F0D-EC56-43D5-8C13-43FB013C0C1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
