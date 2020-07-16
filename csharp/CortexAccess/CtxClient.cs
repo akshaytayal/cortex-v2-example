@@ -214,20 +214,6 @@ namespace CortexAccess
                     if (property.Name != "sid" &&
                         property.Name != "time")
                     {
-                        String metric = property.Name;
-                        if (metric.Equals("com"))
-                        {
-                            JArray xTup = (JArray)property.Value;
-                            ArrayList data = xTup.ToObject<ArrayList>();
-                            String command = data[0].ToString();
-                            double strength = (double)data[1];
-
-                            Console.WriteLine("Command: " + command + " Strength: " + strength.ToString());
-                            WebServerThread.AddInput("keyboard", 38, 1);
-                        }
-                        
-                        //TODO: Create Minecraft Client and pass this input to it.
-
                         OnStreamDataReceived(this, new StreamDataEventArgs(sid, (JArray)property.Value, time, property.Name));
                     }
                 }
